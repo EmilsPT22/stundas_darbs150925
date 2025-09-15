@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./Pages/Home";
 import Layout from "./Pages/Layout";
 
 import "./App.css";
+import Home from "./Pages/Layout";
 
 export default function App() {
   return (
